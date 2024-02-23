@@ -1,6 +1,6 @@
 FROM openjdk:17-jdk-slim
 
-LABEL maintainer="Ngor SECK ngorsecka@gmail.com"
+LABEL maintainer="Lamine NDIAYE lamzojr72@gmail.com"
 
 EXPOSE 8080
 
