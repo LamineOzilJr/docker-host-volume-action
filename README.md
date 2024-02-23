@@ -1,6 +1,3 @@
-
-![Mouhamadou Lamine NDIAYE](https://img.shields.io/badge/Ngor%20SECK-Java-green)
-
 # Documentation
 
 Ce projet vous montre comment mettre en place un volume docker pour une application spring boot piloter par maven.
